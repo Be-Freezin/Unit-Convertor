@@ -1,0 +1,22 @@
+our first solo project through the scrimba JS course!
+
+
+This is our true first JS heavy site. No tutorial to follow, no hand holding. A simple Unit convertor.
+
+This was extremely fun to tackle and it really helped further my understanding of Javascript. I actually understood every line of code i was typing. For anything i couldnt remember (like specific syntax's, etc) I referred to my personal notes.
+
+I wasnt trying to make it look super nice or fancy, just a little bit of character. I was primarily focusing on functionality with this.
+
+SKILL LEVEL --
+
+HTML - 8/10
+--Pretty comfortable with HTML, i need to practice with forms more, dial in a better understanding of structuring a website. Stuff like, when to us divs over sections, etc. All in all I feel like i have the core fundamentals of HTML.
+
+
+CSS - 7/10
+--Decently comfortable with CSS, i know the fundamentals but I am by no means a CSS wizard. I sometimes struggle with centering items, and don't remember EVERY single syntax for CSS. BUT THATS OK. I'm not expected to remember them, thats why i have my personal notes and google.
+Someday CSS goes super smoothly for me, other days i have to refer to my notes and/or google to achieve what i want. Further understanding my knowledge of flex, grid, transforms, transitions and pseudo commands would be beneficial.
+
+
+JS 3/10
+--Im slowly starting to understand javascript! The wheels are turning and thats very important. JS is currently where im devoting my studying time to. There's still ALOT to learn with JS but what i have learned is sticking and things are starting to make sense.
